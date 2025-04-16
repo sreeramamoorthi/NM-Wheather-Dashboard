@@ -15,6 +15,6 @@ result :
 Tools:
 Vs Code
 Running Server: Live Server Extension in VS Code
-Frontend : HTML5,CSS3
-Backend : Javascript
+Frontend : HTML5,CSS3,Javascript 
+Backend : Open Weather API 
 
